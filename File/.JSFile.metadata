@@ -1,1 +1,1 @@
-{"acl":{"read":"group:script-execute","write":"nobody","execute":"nobody"},"contentType":"text\/plain","userConfig":"\/*#*SCRIPTR_PLUGIN*#*{\"metadata\":{\"name\":\"CodeMirrorArbitraryFile\",\"plugindata\":{}}}*#*#*\/"}
+{"acl":{"read":"group:script-execute@PB979823C8;group:script-read","write":"nobody","execute":"nobody"},"contentType":"text\/plain","userConfig":"\/*#*SCRIPTR_PLUGIN*#*{\"metadata\":{\"name\":\"CodeMirrorArbitraryFile\",\"plugindata\":{}}}*#*#*\/"}
